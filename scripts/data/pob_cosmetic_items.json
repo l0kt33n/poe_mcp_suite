@@ -1,0 +1,18 @@
+{
+ "Head": {
+  "name": "Greater Justicar's Helm",
+  "raw": "Rarity: NORMAL\nGreater Justicar's Helm\nUnique ID: ba7f6ae15ca2e1612c06d20032382a99711dc116aa573a906ef12c5768a0ec2c\nItem Level: 83\nImplicits: 1\n15% of Damage taken from Stunning Hits is Recovered as Life"
+ },
+ "Body": {
+  "name": "Searing Exarch's Descry",
+  "raw": "Rarity: NORMAL\nSearing Exarch's Descry\nUnique ID: c2cd1c78b61245adc85d9d4cf6ef028e4c7cd054a36a85edc2c57cf5c9bf0684\nItem Level: 86\nImplicits: 3\n5% of Cold Damage taken as Fire Damage\n6% of Lightning Damage taken as Fire Damage\n6% of Physical Damage taken as Fire Damage"
+ },
+ "Arm": {
+  "name": "Solar Shield",
+  "raw": "Rarity: NORMAL\nSolar Shield\nUnique ID: 089e73ecd22d7eef13bc5e5dfcbf6abf2ede74c4e8c68b74c29c5da7d329c1e4\nItem Level: 60\nImplicits: 1\n6% of Physical Damage from Hits taken as Fire Damage"
+ },
+ "Leg": {
+  "name": "Prosthetic Leg",
+  "raw": "Rarity: NORMAL\nProsthetic Leg\nUnique ID: 7574fcd4441699112637a6b501d03b513f568b5bd70642a3932edfc9663ef1f4\nItem Level: 70\nImplicits: 1\n20% increased Ignite Duration on Enemies"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "status": {
+  "option": "securable"
+ },
+ "type": "Viridian Jewel",
+ "stats": [
+  {
+   "type": "and",
+   "filters": [
+    {
+     "id": "explicit.stat_4095671657",
+     "value": {
+      "min": 2
+     }
+    }
+   ]
+  },
+  {
+   "type": "count",
+   "value": {
+    "min": 2
+   },
+   "filters": [
+    {
+     "id": "explicit.stat_983749596",
+     "value": {
+      "min": 5
+     }
+    },
+    {
+     "id": "explicit.stat_1175385867",
+     "value": {
+      "min": 15
+     }
+    },
+    {
+     "id": "explicit.stat_3962278098",
+     "value": {
+      "min": 14
+     }
+    },
+    {
+     "id": "explicit.stat_3988349707",
+     "value": {
+      "min": 3
+     }
+    },
+    {
+     "id": "explicit.stat_3382807662",
+     "value": {
+      "min": 3
+     }
+    }
+   ]
+  }
+ ],
+ "filters": {
+  "trade_filters": {
+   "filters": {
+    "sale_type": {
+     "option": "priced"
+    }
+   }
+  }
+ }
+}

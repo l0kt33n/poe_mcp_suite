@@ -1,0 +1,40 @@
+{
+ "status": {
+  "option": "securable"
+ },
+ "type": "Cobalt Jewel",
+ "stats": [
+  {
+   "type": "and",
+   "filters": [
+    {
+     "id": "explicit.stat_4095671657",
+     "value": {
+      "min": 2
+     }
+    },
+    {
+     "id": "explicit.stat_3382807662",
+     "value": {
+      "min": 7
+     }
+    },
+    {
+     "id": "explicit.stat_3962278098",
+     "value": {
+      "min": 14
+     }
+    }
+   ]
+  }
+ ],
+ "filters": {
+  "trade_filters": {
+   "filters": {
+    "sale_type": {
+     "option": "priced"
+    }
+   }
+  }
+ }
+}

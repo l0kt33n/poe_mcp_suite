@@ -1,0 +1,16 @@
+{
+  "_note": "Plan state as of 2026-11-22: Malevolence replaces Purity of Fire; need +4% max fire res from new Cobalt/Viridian jewels with at least two other useful affixes. Candidate mods/prices are from live listings that day - REFRESH from trade (scripts/data/queries/*.json) before buying.",
+  "buildFile": "C:/Users/loky/Documents/Path of Building/Builds/3.30/aa7785 - COVENS_AFKTILNEWBUILD.xml",
+  "fields": ["FullDPS","Life","LifeUnreserved","FireResist","FireMaximumHitTaken","PhysicalMaximumHitTaken","ChaosMaximumHitTaken","SpellBlockChance"],
+  "pairs": 2,
+  "neverReplace": ["Jewel 26196", "Jewel 49080", "Jewel 61419", "Jewel 26725"],
+  "gemSwap": { "slotName": "Boots", "remove": "Purity of Fire", "add": "Malevolence", "level": 18, "quality": 0 },
+  "minFireRes": 90,
+  "candidates": {
+    "HG": { "name": "Honour Glisten",   "base": "Cobalt Jewel",   "divine": 4, "mods": ["+8% to Fire Damage over Time Multiplier", "15% increased Fire Damage", "+2% to maximum Fire Resistance"] },
+    "PG": { "name": "Phoenix Glisten",  "base": "Cobalt Jewel",   "divine": 4, "mods": ["5% increased maximum Life", "16% increased Burning Damage", "+2% to maximum Fire Resistance"] },
+    "CS": { "name": "Cataclysm Sliver", "base": "Viridian Jewel", "divine": 5, "mods": ["16% increased Fire Damage", "7% increased maximum Life", "+2% to maximum Fire Resistance"] },
+    "LD": { "name": "Loath Dream",      "base": "Viridian Jewel", "divine": 6, "mods": ["6% increased maximum Life", "17% increased Burning Damage", "+2% to maximum Fire Resistance"] },
+    "DD": { "name": "Dragon Desire",    "base": "Viridian Jewel", "divine": 6, "mods": ["+4% to Damage over Time Multiplier", "6% increased maximum Life", "+2% to maximum Fire Resistance"] }
+  }
+}
